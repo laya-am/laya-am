@@ -5,13 +5,15 @@ I've been learning software development for the past two years and trying to cod
 
 
 - 🌱 I’m currently learning Typescript, React component testing, and Zustand.
-- 🔭 I’m currently working on an app that makes fitness more inclusive by targeting specific needs women* have. 
+- 🔭 I’m currently working on two projects:
+  * A game of Thrones fanpage, where I'm trying to apply all new technologies I'm learning
+  * And an app that makes fitness more inclusive by targeting specific needs women have. This is a group project and I contribute as a frontend mostly.
 - 👯 I’m looking for opportunities to contribute to open source projects.
 - 📫 How to reach me: contact me on my [LinkedIn](https://www.linkedin.com/in/laya-aminosharei/)
 - ⚡ In the future I would love to learn Java, Docker, and AWS.
+---
 
 ### My Stack:
----
 
 <p float="left">
 <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/CSS3_and_HTML5_logos_and_wordmarks.svg/2560px-CSS3_and_HTML5_logos_and_wordmarks.svg.png' width='120'>
